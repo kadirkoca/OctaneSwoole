@@ -1,4 +1,4 @@
-# Laravel - Octane/Swoole server (Fastest PHP server)
+# Laravel - Octane/Swoole server
 Load test results shown below. Apache2 / Nginx / Swoole - 250 User // Get Requests
 
 
